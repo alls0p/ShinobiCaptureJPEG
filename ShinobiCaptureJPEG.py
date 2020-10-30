@@ -18,7 +18,7 @@ def grab_jpeg():
 grab_jpeg()
 
 
-# working currently out of directory that .py file is in
+
 """ todo:
       - clean up files after x number of files exist
       - Create user input for both output file path and name, maybe camera name? - DONE
